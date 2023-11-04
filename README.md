@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Project consists of a system with three peripherals connected to a microprocessor in order to calculate altitude based on air pressure and temperature, and velocity based on acceleration and gyroscope. The data is then displayed on a simple screen for a skydiver to read current altitude and velocity at any given moment. The project is being done from a very low level (C language) with no outside drivers being used. Speed and efficiency are the highest priorities when writing the code.
+Project consists of a system with three peripherals connected to a microprocessor in order to calculate altitude based on air pressure and temperature, and velocity based on acceleration and gyroscope. The data is then displayed on a simple screen for a skydiver to read current altitude and velocity at any given moment. The project is being done from a very low level (C language) with no outside drivers being used. Speed and efficiency are the highest priorities when writing the code. At the end of the project I will be designing and buying a PCB, 3D printing a case, and testing the prototype so stick around!
 <br />
 
 
