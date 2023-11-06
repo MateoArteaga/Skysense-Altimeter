@@ -13,8 +13,8 @@ Project consists of a system with three peripherals connected to a microprocesso
 
 <h2>Environments Used </h2>
 
-- <b>Windows 11</b> (21H2)
-- <b>STM32 Cube IDE (Eclipse Based)</b> (21H2)
+- <b>Windows 11</b>
+- <b>STM32 Cube IDE (Eclipse Based)</b>
 
 <h2>Peripheral Devices:</h2>
 
