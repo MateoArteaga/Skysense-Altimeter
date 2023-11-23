@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Project consists of a system with three peripherals connected to a microprocessor in order to calculate altitude based on air pressure and temperature, and velocity based on acceleration and gyroscope. The data is then displayed on a simple screen for a skydiver to read current altitude and velocity at any given moment. The project is being done from a very low level (C language) with no outside drivers being used. Speed and efficiency are the highest priorities when writing the code. At the end of the project I will be designing and buying a PCB, 3D printing a case, and testing the prototype so stick around!
+Project consists of a system with three peripherals connected to a microprocessor in order to calculate altitude based on air pressure and temperature, and velocity based on acceleration and gyroscope. The data is then displayed on a simple screen for a skydiver to read current altitude and velocity at any given moment. The project is being done from a very low level (C language). Speed and efficiency are the highest priorities when writing the code. I will be designing and buying a PCB, 3D printing a case, and testing the prototype so stick around!
 <br />
 
 
@@ -16,9 +16,9 @@ Project consists of a system with three peripherals connected to a microprocesso
 - <b>Windows 11</b>
 - <b>STM32 Cube IDE (Eclipse Based)</b>
 
-<h2>Peripheral Devices:</h2>
+<h2>Sensors:</h2>
 
-- [MPL115A2 Miniature I2C digital barometer](https://www.nxp.com/docs/en/data-sheet/MPL115A2.pdf)
+- [BMP390](https://www.bosch-sensortec.com/products/environmental-sensors/pressure-sensors/pressure-sensors-bmp390.html)
 - [MPU-9250 IMU](https://invensense.tdk.com/wp-content/uploads/2015/02/PS-MPU-9250A-01-v1.1.pdf)
 - Screen TBD
 
