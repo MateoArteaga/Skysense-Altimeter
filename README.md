@@ -20,8 +20,7 @@ Project consists of a system with three components connected to a microprocessor
 
 - [BMP390](https://www.bosch-sensortec.com/products/environmental-sensors/pressure-sensors/pressure-sensors-bmp390.html)
 - [MPU-9250 IMU](https://invensense.tdk.com/wp-content/uploads/2015/02/PS-MPU-9250A-01-v1.1.pdf)
-- Screen TBD
-
+- [0.91" IIC I2C Serial OLED LCD Display](https://www.amazon.com/HiLetgo-Serial-Display-SSD1306-Arduino/dp/B01N0KIVUX)
 
 <!--
  ```diff
