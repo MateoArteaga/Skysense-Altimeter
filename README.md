@@ -5,6 +5,11 @@
 Project consists of a system with peripherals connected to a microprocessor in order to calculate altitude based on air pressure and temperature. The data is then displayed on a simple screen for a skydiver to read current altitude at any given moment. The project is being done from a very low level (C language). Speed and efficiency are the highest priorities when writing the code. I will be designing and buying a PCB, 3D printing a case, and testing the prototype so stick around!
 <br />
 
+<h2>Features</h2>
+- Automatic Zeroing at power on.
+- STM32 ultra-low-power mode toggling (for when not in use but on)
+- 60 Samples Per second (matching frame rate)
+- estimated 200 jumps of use per charge.
 
 <h2>MCU</h2>
 
