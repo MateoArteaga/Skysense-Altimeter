@@ -7,7 +7,8 @@ Project consists of a system with peripherals connected to a microprocessor in o
 
 <h2>Features</h2>
 
-- <b>Automatic Zeroing at power on.</b>
+- <b>Accuracy within +-1ft</b>
+- <b>Automatic Zeroing and calibration at power on.</b>
 - <b>STM32 ultra-low-power mode toggling (for when not in use but on)</b>
 - <b>60 Samples Per second (matching frame rate)</b>
 - <b>estimated 200 jumps of use per charge.</b>
