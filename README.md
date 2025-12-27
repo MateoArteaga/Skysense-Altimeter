@@ -6,10 +6,11 @@ Project consists of a system with peripherals connected to a microprocessor in o
 <br />
 
 <h2>Features</h2>
-- Automatic Zeroing at power on.
-- STM32 ultra-low-power mode toggling (for when not in use but on)
-- 60 Samples Per second (matching frame rate)
-- estimated 200 jumps of use per charge.
+
+- <b>Automatic Zeroing at power on.</b>
+- <b>STM32 ultra-low-power mode toggling (for when not in use but on)</b>
+- <b>60 Samples Per second (matching frame rate)</b>
+- <b>estimated 200 jumps of use per charge.</b>
 
 <h2>MCU</h2>
 
