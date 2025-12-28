@@ -12,6 +12,7 @@ Project consists of a system with peripherals connected to a microprocessor in o
 - <b>STM32 ultra-low-power mode toggling (for when not in use but on)</b>
 - <b>60 Samples Per second (matching frame rate)</b>
 - <b>estimated 200 jumps of use per charge.</b>
+- <b2Kb NVM storage for jump data.</b>
 
 <h2>MCU</h2>
 
